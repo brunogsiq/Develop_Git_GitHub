@@ -21,3 +21,5 @@ Mergulhe nas estratégias de resolução de conflitos no Git e explore comandos 
 Descubra recursos adicionais e extensões do GitHub que podem aprimorar a produtividade e facilitar o gerenciamento de projetos. Desde integrações com ferramentas de CI/CD até automações com GitHub Actions, explore maneiras de otimizar seu fluxo de trabalho.
 
 Desfrute do aprendizado sobre Git e GitHub, e aprimore suas habilidades para se tornar um colaborador mais eficiente em projetos de software! 🚀
+
+Mensagem teste - Deverá ser apagada após documentação completa
